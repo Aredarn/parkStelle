@@ -3,16 +3,19 @@
 #include "gepjarmu.h"
 #include <vector>
 #include <iostream>
-
+#include <fstream>
+#include <sstream>
 
 using namespace std;
 
 
 class Gepjarmuvek
 {
-
+    vector<Gepjarmu> osszesGepjarmu;
 public:
-    void listazGepJarmuvek();
+    Gepjarmuvek() {}
+    int listazGepJarmuvek();
+
 };
 
 #endif // GEPJARMUVEK_H

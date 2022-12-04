@@ -1,0 +1,3 @@
+Sanyi,1,jelszo
+Endre,2,nem
+admin,3,admin

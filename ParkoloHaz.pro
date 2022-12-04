@@ -5,6 +5,7 @@ CONFIG -= qt
 
 SOURCES += \
     ParkoloHaz.cpp \
+    admin.cpp \
     ertesites.cpp \
     ertesitesek.cpp \
     felhasznalok.cpp \
@@ -14,6 +15,7 @@ SOURCES += \
     parkoloszemely.cpp
 
 HEADERS += \
+    admin.h \
     ertesites.h \
     ertesitesek.h \
     felhasznalok.h \

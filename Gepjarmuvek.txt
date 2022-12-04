@@ -1,0 +1,7 @@
+001,AAA-111,Auto,14:00 
+002,BBB-123,Auto,12:00
+003,MRTN-911,Auto, 6:30
+004,HHB-612,Auto, 7:32
+005,UOM-262,Motorkerekpar, 8:11
+006,TDN-720,Auto, 7:36
+007,BN-3-FLY,Motorkerekpar, 0:00

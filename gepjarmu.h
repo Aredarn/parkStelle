@@ -1,7 +1,7 @@
 #ifndef GEPJARMU_H
 #define GEPJARMU_H
 #include <iostream>
-#include "gepjarmuvek.h"
+
 using namespace std;
 
 class Gepjarmu
