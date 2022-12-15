@@ -4,15 +4,17 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-    ParkoloHaz.cpp \
-    admin.cpp \
-    ertesites.cpp \
-    ertesitesek.cpp \
-    felhasznalok.cpp \
-    gepjarmu.cpp \
-    gepjarmuvek.cpp \
-    parkoloor.cpp \
-    parkoloszemely.cpp
+        admin.cpp \
+        ertesites.cpp \
+        ertesitesek.cpp \
+        felhasznalok.cpp \
+        gepjarmu.cpp \
+        gepjarmuvek.cpp \
+        hibajegyzek.cpp \
+        szerepkorok.cpp \
+        main.cpp \
+        parkoloor.cpp \
+        parkoloszemely.cpp
 
 HEADERS += \
     admin.h \
@@ -21,5 +23,7 @@ HEADERS += \
     felhasznalok.h \
     gepjarmu.h \
     gepjarmuvek.h \
+    hibajegyzek.h \
+    szerepkorok.h \
     parkoloor.h \
     parkoloszemely.h
